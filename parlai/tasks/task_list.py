@@ -9,6 +9,13 @@ and the tags associated with them.
 
 task_list = [
     {
+        "id": "aaaa_sandbox",
+        "display_name": "aaaa_sandbox",
+        "task": "aaaa_sandbox",
+        "tags": ["all", "QA"],
+        "description": "lalala"
+    },
+    {
         "id": "AQuA",
         "display_name": "AQuA",
         "task": "aqua",
